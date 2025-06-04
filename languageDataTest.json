@@ -27,7 +27,9 @@
      "PlayerTheme" : "संगीत पृष्ठभूमि रंग चुनें",
     "SleepTime" : "ऐप बंद करने का समय सेट करें",
     "SelectLanguage" : "भाषा चुने",
-    "close" : "बंद करे"
+    "close" : "बंद करे",
+    "mp3Option" : "रेडियो चैनल सूची",
+    "VideoOption" : "वीडियो चैनल सूची"
     
   },
   "english": {
@@ -58,7 +60,9 @@
     "PlayerTheme" : "Select Player Background Color",
     "SleepTime" : "Set App Close Time",
     "SelectLanguage" : "Select Language",
-     "close" : "close"
+     "close" : "close",
+    "mp3Option" : "Radio Mp3 Channal",
+    "VideoOption" : "Video & Live Tv Channel"
   },
   "bhojpuri": {
     "AppName": "महफ़िल म्यूजिक & टीवी",
@@ -88,6 +92,8 @@
     "PlayerTheme" : "संगीत पृष्ठभूमि के रंग चयन करीं",
     "SleepTime" : "ऐप बंद होखे के समय सेट करीं",
     "SelectLanguage" : "भाषा के चयन करीं",
-     "close" : "बंद करीं"
+     "close" : "बंद करीं",
+     "mp3Option" : "रेडियो चैनल सूची",
+    "VideoOption" : "वीडियो चैनल सूची"
   }
 }
